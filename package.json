@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-hanging-punctuation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Tailwind CSS plugin to add utilities for hanging punctuation.",
   "main": "index.js",
   "scripts": {
@@ -10,13 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/iamdangavin/tailwindcss-hanging-punctuation.git"
   },
-  "keywords": [
-    "tailwindcss",
-    "plugin",
-    "css",
-    "hanging",
-    "punctuation"
-  ],
+  "keywords": ["tailwindcss", "plugin", "css", "hanging", "punctuation"],
   "author": "Dan Gavin <iamdangavin@example.com>",
   "license": "ISC",
   "bugs": {
