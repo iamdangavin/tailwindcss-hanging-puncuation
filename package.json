@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss-hanging-punctuation",
+  "version": "1.0.0",
+  "description": "Add hanging punctuation to your Tailwind CSS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "hanging",
+    "punctuation"
+  ],
+  "author": "Dan Gavin",
+  "license": "ISC"
+}
