@@ -1,4 +1,4 @@
-# tailwindcss-hanging-puncuation
+# @iamdangavin/tailwindcss-hanging-puncuation
 
 Hanging punctuation support for TailwindCSS
 
